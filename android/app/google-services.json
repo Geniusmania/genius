@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190836363748",
+    "project_id": "chat-up-9d23a",
+    "storage_bucket": "chat-up-9d23a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190836363748:android:9158214de22763efce37f1",
+        "android_client_info": {
+          "package_name": "com.example.snapchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB09HOoPrFr1yPRlqPhDR_MKAyJSXfTqUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
