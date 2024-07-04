@@ -1,4 +1,4 @@
-# snapchat
+# A simple messaging app
 
 A new Flutter project.
 
